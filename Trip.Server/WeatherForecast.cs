@@ -1,4 +1,4 @@
-namespace Trip.Server
+namespace Trips.Server
 {
     public class WeatherForecast
     {
