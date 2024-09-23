@@ -1,0 +1,18 @@
+import React from 'react'
+
+const Home = () => {
+    return (
+        <div>
+            <h1>Welcome to trips manager</h1>
+            <p>Use this manager to manage your trips, by:</p>
+            <ul>
+                <li>Add a new trip</li>
+                <li>Update a trip</li>
+                <li>Delete a trip</li>
+                <li>Show all trips</li>
+            </ul>
+        </div>
+    )
+}
+
+export default Home
